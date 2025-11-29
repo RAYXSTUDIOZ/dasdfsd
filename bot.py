@@ -27,7 +27,7 @@ bot.remove_command('help')
 # Configure Gemini AI using the new google-genai SDK
 # Blueprint: python_gemini
 GEMINI_API_KEY = os.getenv("GEMINI_KEY")
-gemini_client = genai.Client(api_key=GEMINI_API_KEY = os.getenv("GEMINI_KEY")
+gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
 # Store conversation history per user
 conversation_history = {}
