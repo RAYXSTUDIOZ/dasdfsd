@@ -1,0 +1,1 @@
+discord.py\ngoogle-genai\naiohttp\nPillow\nbing-image-downloader
