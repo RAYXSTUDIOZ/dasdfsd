@@ -1,0 +1,10 @@
+{
+  "123456789012345678": {
+    "antispam": true,
+    "anti_raid": true,
+    "chat_mode": false,
+    "min_account_age_days": 7,
+    "log_channel_id": null,
+    "announce_enabled": true
+  }
+}
